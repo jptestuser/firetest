@@ -6,3 +6,4 @@ New line
 New line
 =======
 >>>>>>> master
+New line
